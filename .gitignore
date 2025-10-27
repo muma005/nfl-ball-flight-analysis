@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints
+
+# Data
+data/raw/
+data/interim/
+data/processed/
+
+# Environments
+.env
+.venv
+
+# Byte-compiled / logs
+*.log
+
+# Mac
+.DS_Store
