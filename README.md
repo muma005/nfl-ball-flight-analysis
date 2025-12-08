@@ -266,10 +266,4 @@ This echoes the winner’s elegant closing tone.
 * Explanation of edge-case handling
 * Data cleaning steps
 
-This boosts Data Science Score **without cluttering the main narrative**.
 
----
-
-
-
-**Do you want the entire write-up drafted now, or section-by-section?**
