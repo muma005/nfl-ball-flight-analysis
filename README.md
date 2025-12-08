@@ -4,10 +4,7 @@ Project skeleton for analyzing ball flight and catch metrics (separation gain, c
 
 This repository contains data folders, notebooks, reusable code in `src/`, and reports/visuals placeholders.
 
-
-https://github.com/user-attachments/assets/5a6fc49b-3175-4ad7-8fca-7837cd34c702
-
-
+![rsi_play_final_fromdata](https://github.com/user-attachments/assets/8842014c-be6e-451b-b1bf-bb6d6fd6afa4)
 
 
 Absolutely — here is the **full write-up outline**, crafted in the style and structure of previous winners, but tailored perfectly to *your three-metric system* (SG, TTI, RSI).
