@@ -69,16 +69,7 @@ Explain how WR *wins leverage* through movement.
 
 * **Simple SG visualization:**
 
-  * Animation on left
-  * Separation curve on right
-  * Highlight SG arrow at end
-
-* **1 Play Example:**
-
-  * Play GIF
-  * SG curve
-  * 2–3 sentence football interpretation
-    (“WR stems inside, DB hesitates, SG increases from 1.2 → 3.8 yds.”)
+  <img width="1270" height="710" alt="image" src="https://github.com/user-attachments/assets/b2182d28-062d-4a0b-8b29-407a67825448" />
 
 ---
 
