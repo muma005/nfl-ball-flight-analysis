@@ -95,18 +95,8 @@ Explain the defender’s ability to *recover* or *contest* the catch.
 
 * **TTI Visualization:**
 
-  * Animated WR–DB play
-  * Vertical line at TTI on distance/time graph
-  * “Catch window bar” showing contest probability
+<img width="1089" height="470" alt="image" src="https://github.com/user-attachments/assets/e137ce0e-a10d-4e45-9933-7f52d815ac95" />
 
-* **1 Play Example:**
-
-  * GIF
-  * TTI graph
-  * Football explanation
-    (“Despite early separation, DB accelerates from 6.1 yds to within reach in 0.73s — tight contest.”)
-
----
 
 # **V. Metric 3 — Reactive Synchronization Index (RSI): The Dance Story**
 
