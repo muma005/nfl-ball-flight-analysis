@@ -42,33 +42,9 @@ After the outline, I can expand each section into full prose.
 
 ---
 
-# **II. A Unified Visualization of Pass Interaction**
 
-(*This is your Figure 1 Analog — the critical diagram every winning paper has*)
+<img width="1535" height="697" alt="image" src="https://github.com/user-attachments/assets/cb7289d9-ca6f-4980-9ce9-69fa1048d0ff" />
 
-You show ONE simple illustration containing:
-
-* **SG curve (space over time)**
-* **TTI marker (estimated defender arrival time)**
-* **RSI band/curve (movement synchrony)**
-
-This becomes the reader’s mental map for the entire paper.
-
-### What to include:
-
-* A side-by-side static diagram or composite visual:
-
-  * WR–DB movement animation frame
-  * SG curve
-  * TTI vertical line
-  * RSI synchrony bar under the curve
-* Just 3–4 labels:
-
-  * “WR creates space here”
-  * “DB closes here”
-  * “Movement out of sync here”
-
-This visual should be **extremely simple** and used to explain the concepts before you show real plays.
 
 ---
 
